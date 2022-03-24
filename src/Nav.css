@@ -1,0 +1,12 @@
+div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+h1{
+    margin: 15px;
+    font-size: 35px;
+}
+a{
+    margin: 15px;
+}
